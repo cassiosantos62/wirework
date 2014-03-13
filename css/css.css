@@ -1,0 +1,216 @@
+body{
+	margin: 0;
+}
+
+
+div{
+	/*border: solid 1px blue;*/
+	display: block;
+}
+
+.topo{
+	color:#2C383B;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1{
+	float: left;
+	margin: 25px 0 0 65px;
+	color: #2C383B;
+}
+
+a{
+	text-decoration: none;
+	color:#2C383B; 
+}
+
+p{
+	font-size: 11px;
+	margin: 35px 0 0 50px;
+	float: left;
+}
+/***********MENU**********/
+.homepage{
+	padding: 0;
+	margin: 20px 0 20px 100px;
+	float: left;
+	width: 128px;
+	height: 60px;
+	background: #E24E2A;	
+
+}
+li{
+	margin-top: 20px;
+	color: white;
+	text-align: center;
+	list-style: none;
+}
+
+.clients{
+	padding: 0;
+	margin: 20px 0 0 1px;
+	float: left;
+	width: 128px;
+	height: 60px;
+	background: #ECECEC;	
+}
+.clients li{
+	color: #2C383B;
+}
+
+.about{
+	padding: 0;
+	margin: 20px 0 0 1px;
+	float: left;
+	width: 128px;
+	height: 60px;
+	background: #ECECEC;	
+}
+
+.about li{
+	color: #2C383B;
+}
+
+.careers{
+	padding: 0;
+	margin: 20px 0 0 1px;
+	float: left;
+	width: 128px;
+	height: 60px;
+	background: #ECECEC;	
+}
+
+.careers li{
+	color: #2C383B;
+}
+
+.contact{
+	padding: 0;
+	margin: 20px 0 0 1px;
+	float: left;
+	width: 128px;
+	height: 60px;
+	background: #ECECEC;	
+}
+
+.contact li{
+	color: #2C383B;
+}
+/***********END MENU**********/
+/***********END TOPO**********/
+
+
+/***********IMG CONTEUDO**********/
+
+.img_cont{
+	background: url(imagem/banner.jpg) center center;
+	float: left;
+	height: 440px;
+	width: 100%;
+	background-size: cover;
+}
+/*********** END IMG CONTEUDO**********/
+
+/*********** BANNER TEXT**********/
+.banner-text{
+	float: left;
+	width: 100%;
+	height: 181px;
+	background-color: #E24E2A;
+}
+
+.banner-text p{
+	margin: 70px 0 0 200px;
+	width: 1000px;
+	height: 78px;
+	text-align: center;
+	color: rgba(255,255,255,.7);
+	font-size: 15px;
+
+}
+
+.banner-text a{
+	color: rgba(255,255,255,.7);
+	text-decoration: underline;
+
+}
+a:hover {
+text-decoration: none;
+}
+/*********** END BANNER TEXT**********/
+
+/*********** CONFIG**********/
+
+.config{
+	/*padding: 100px 0 0 0;*/
+	float: left;
+	background: #383838;
+	width: 100%;
+	height: 457px;
+}
+.tarja-config{
+	padding-left: 50px;
+	width: 1300px;
+	height: 281px;
+}
+
+/***********END CONFIG**********/
+
+
+/***********BLOCOS**********/
+.bloco1{
+	margin-top: 100px;
+	color: #ffffff;
+	margin-left: 20px;
+	float: left; 
+	width: 282px;
+	height: 281px;
+
+}
+i{
+	margin-top: 20px;
+}
+.icon{
+	margin-left: 90px;
+	color: white;
+	font-size: 60px;
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	background: #E24E2A;
+}
+
+.title{
+	border-bottom:solid 1px #6c6c6c;
+	width: 282px;
+	height: 52px;
+}
+
+.bloco1 p{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+
+.texto p{
+	margin: 20px 0 0 0;
+	width: 282px;
+	height: 78px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 15px;
+	color: #6c6c6c;
+}
+
+/***********END BLOCOS**********/
+
+
+/***********BARRA BOTTOM**********/
+
+.barra-buttom{
+	float: left;
+	border: solid 1px blue;
+	width: 100%;
+	height: 400px;
+}
+
