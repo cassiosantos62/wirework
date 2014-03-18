@@ -208,9 +208,115 @@ i{
 /***********BARRA BOTTOM**********/
 
 .barra-buttom{
+	margin-left: 75px;
 	float: left;
-	border: solid 1px blue;
-	width: 100%;
-	height: 400px;
+	width: 1200px;
+	height: 300px;
 }
 
+.texto-buttom1 {
+	margin-left: 0;
+	margin-top: 50px;
+	text-align: center;
+	width: 1200px;
+	height: 44px;
+	font-size: 2.4em;
+}
+
+.texto-buttom2 {
+	margin-left: 0;
+	margin-top: 5px;
+	text-align: center;
+	width: 1200px;
+	height: 27px;
+	font-size: 1.2em;;
+}
+
+.link-buttom a {
+	color: white;
+}
+
+.link-buttom{
+	padding: 20px;
+	text-align: center;
+	margin: 20px auto;
+	background: #1B9772;
+	width: 230px;
+}
+
+/***********END BARRA BOTTOM**********/
+
+/***********BLOCOS RODAPE**********/
+
+.container-bloco-rodape{
+	float: left;
+	width: 100%;
+	height: 342px;
+	background: #383838;
+}
+
+.bloco-rodape{
+	margin: 88px auto;
+	width: 1200px;
+	height: 166px;
+}
+
+.bloco2{
+	float: left;
+	color: #ffffff;
+	width: 282px;
+	height: 166px;
+}
+
+.bloco2 p{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	font-size: 1.6em;
+	width: 282px;
+	height: 29px;
+}
+
+.texto-bloco2{
+	margin-top: 0px;
+	width: 282px;
+	height: 78px;
+}
+
+.texto-bloco2 p{
+
+	margin-top: 50px;
+	height: 78px;
+	width: 282px;
+	font-size: 11pt;
+	color: #6c6c6c;
+}
+
+/***********RODAPE**********/
+.rodape{
+	float: left;
+	background: #3CB371;
+	width: 100%;
+	height: 181px;
+}
+
+
+.texto-rodape{
+	padding: 0;
+	text-align: center;
+	margin: auto;
+
+}
+
+.texto-rodape p{
+	text-align: center;
+	padding:0;
+	margin: 80px;
+	width: 1200px;
+	height: 21px;	
+	letter-spacing: 0.20em;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 0.80em;
+	color: rgba(255,255,255,0.3);
+}
